@@ -1,0 +1,5 @@
+[build]
+  # Netlify has no access to SECONDBRAIN, so it builds straight from the
+  # committed content/ directory — run `npm run sync` locally before pushing.
+  command = "npx next build"
+  publish = "out"
