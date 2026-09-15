@@ -9,9 +9,13 @@ slug: syllabus
 ---
 
 **Course Number:** HUW 112
+
 **Days/Time:** Tuesdays and Thursdays, 9:15a - 11:30a — E-230
+
 **Instructor:** Jeff Ong — Section 5382 
+
 **Email** jeffrey.ong97@lagcc.cuny.edu
+
 **Office Hours:** Tuesdays 12:30p - 1:30p, email or chat to schedule
 
 ## **Course Description**
