@@ -12,7 +12,7 @@ slug: syllabus
 
 **Course Title:** Principles of Multimedia and Web Design
 
-**Days/Time:** Tuesdays and Thursdays, 2:15p - 4:45p — E 261
+**Days/Time:** Tuesdays and Thursdays, 2:15p - 4:25p — E 261
 
 **Instructor:** Jeff Ong
 
