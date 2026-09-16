@@ -11,10 +11,11 @@ slug: class-2-setting-up-something-you-love
 
 ### Agenda
 
-- **Lecture + demo** — logistics, account setup, and a walkthrough of
-  the Figma interface
+- **Admin & account setup** — Brightspace, office hours, Wi-Fi, CUNY email, OneDrive
+- **Getting set up in Figma** — signing up and a walkthrough of the interface
 - **Break**
-- **Activity** — Something You Love activity + survey
+- **Something You Love activity** — build a Figma board, then partner up to share
+- **Survey**
 
 Today we'll get your accounts and tools set up, then dive into a first creative
 activity using Figma.
