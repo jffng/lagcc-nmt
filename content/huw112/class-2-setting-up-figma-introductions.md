@@ -77,6 +77,8 @@ Some unique things you can do in FigJam files instead of regular design files:
 - Draw a doodle
 - Highlight an object or text
 
+Here is a guide to FigJams: https://help.figma.com/hc/en-us/articles/1500004362321-Guide-to-FigJam
+
 ### Activity
 
 In this FigJam, add something that inspires you: https://www.figma.com/board/PLM0fnz3Pd5xG9uIwvjk0k/Introductions?node-id=0-1&t=SScO7uR81SeelYea-1
@@ -89,7 +91,9 @@ We will share this with each other, to get to know one another better.
 
 ### Homework
 
-Be sure to fill out the survey if you have not yet:
+- Become familiar with navigating Figma
+- Fill out the survey if you have not yet:
 https://docs.google.com/forms/d/e/1FAIpQLScmzqvZRO-20XAwsr927CMmENCsAKPJdxdAlNcC4UT49ZTgzQ/viewform?usp=header
 
-There is no other homework, have a good weekend :)
+
+Have a good weekend :)
