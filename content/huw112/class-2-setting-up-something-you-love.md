@@ -33,7 +33,7 @@ activity using Figma.
   https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:5a5e9f99-1d6c-41f3-b310-fbf76a38a08c
 - **OneDrive**: this is where you'll save and back up your work so you don't lose
   it. Here's how to access it through your CUNY account:
-  ![](/content-assets/Screenshot 2026-09-16 at 8.11.39 AM.png)
+  ![](/content-assets/Screenshot-2026-09-16-at-8.11.39-AM.png)
 
 ### Getting set up in Figma
 

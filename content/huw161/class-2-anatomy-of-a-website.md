@@ -38,7 +38,7 @@ does:
 - **Motion** — any animation or movement on the page
 - **Interaction** — how the site invites (or doesn't invite) you to engage with it
 
-We'll go through this together using a Figma file *(link coming soon)*.
+We'll go through this together using [this Figma file](https://www.figma.com/design/gi6dORlysnsBzrofzsJJhj/Website-Scavenger-Hunt?m=auto&t=VIbebomRepWcUgMo-6).
 
 ### Exercise: Internet Scavenger Hunt (60 min)
 
