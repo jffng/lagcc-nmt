@@ -59,4 +59,4 @@ Create a new Figma design file in the [Internet Scavenger Hunt folder](https://w
 ### Reading
 
 Before next Tuesday, read:
-[Frank Chimero — The Good Place](https://www.are.na/block/50389519)
+[Frank Chimero — The Good Place](https://frankchimero.com/blog/2018/the-good-room/)

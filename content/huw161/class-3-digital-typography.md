@@ -18,7 +18,7 @@ We'll review your examples from the [Internet Scavenger Hunt](https://www.figma.
 
 ### Lecture
 
-We will the overall structure of a website 
+We will look at the overall structure of a website. 
 
 ### Activity
 
