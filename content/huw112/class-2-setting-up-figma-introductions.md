@@ -23,6 +23,7 @@ activity using Figma.
 ### Admin
 
 - **Class notes**: you can find all of the class notes on this website.
+- **Inventory of Equipment to rent**: https://docs.google.com/document/d/152OD5klu9dqscZ50MPHBo1PBHT4JvTDwxwHdMkxPdpM/edit?tab=t.0
 - **Brightspace**: all class communication, including graded assignments, will be
   posted through Brightspace announcements. Check it regularly.
 - **Office hours**: Tuesdays 12:30–1:30. Email me to schedule a time:
@@ -40,6 +41,7 @@ activity using Figma.
 
 1. Sign up for Figma at figma.com/signup using your CUNY student email. You'll be asked to
 go through a verification flow to confirm you're a student, this unlocks Figma's free education plan.
+
 2. Use this link to join the class Figma Team: https://www.figma.com/team_invite/redeem/0UgAOk4s4Qvsvg02ihbfFl?t=fdQngmY5yTzz9skA-21
 
 **Why we're using Figma:** Figma is a design tool that's become an industry

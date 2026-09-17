@@ -31,6 +31,7 @@ We'll look at websites that are very different from each other in purpose,
 tone, and audience. For each one, we'll break down what makes it feel the way it
 does:
 
+- **Purpose** — what does this website do, and who is it for?
 - **Typography** — the fonts and text styling used, and the mood they set
 - **Navigation** — how you move around the site and find things
 - **UI behavior** — how the site responds when you interact with it: what happens
@@ -46,16 +47,16 @@ Find three websites that are clearly different *types* from one another. Some
 examples of types to choose from: e-commerce/shopping, portfolio, news, blog,
 nonprofit, government, or a web app (like an online tool or dashboard).
 
-For each site:
+For each site, write a description of the following.
 1. Note what type it is
-2. Explain how it differs from the other two you picked (typography, navigation,
-   UI behavior, motion, interaction — pull from the categories above)
-3. Explain what you like about it and what you don't
+2. Describe what it's doing and who it's audience is (who is it for)
+3. Explain some choices it makes through the design: fonts, navigation,
+   UI behavior, motion, interaction.
+4. Explain what you like about it and what you don't
+
+Create a new Figma design file in the [Internet Scavenger Hunt folder](https://www.figma.com/files/team/1679329638426714873/folder/656373057?fuid=1674475704342676702) and add your examples in it. 
 
 ### Reading
 
-Before next Thursday, read:
+Before next Tuesday, read:
 [Frank Chimero — The Good Place](https://www.are.na/block/50389519)
-
----
-*Instructor note: Figma demo file link still TBD — add before class.*
