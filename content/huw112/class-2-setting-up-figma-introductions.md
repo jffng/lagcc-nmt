@@ -2,11 +2,11 @@
 publish: true
 course: huw112
 type: classnotes
-title: Class 2 — Setting Up + Something You Love
+title: Class 2 — Setting Up Figma + Introductions
 term: Fall 2026
 date: '2026-09-17'
 order: 2
-slug: class-2-setting-up-something-you-love
+slug: class-2-setting-up-figma-introductions
 ---
 
 ### Agenda
@@ -22,6 +22,7 @@ activity using Figma.
 
 ### Admin
 
+- **Class notes**: you can find all of the class notes on this website.
 - **Brightspace**: all class communication, including graded assignments, will be
   posted through Brightspace announcements. Check it regularly.
 - **Office hours**: Tuesdays 12:30–1:30. Email me to schedule a time:
@@ -37,17 +38,17 @@ activity using Figma.
 
 ### Getting set up in Figma
 
-Sign up for Figma at figma.com using your CUNY student email. You'll be asked to
-go through a quick verification flow to confirm you're a student — this unlocks Figma's free education plan.
+1. Sign up for Figma at figma.com/signup using your CUNY student email. You'll be asked to
+go through a verification flow to confirm you're a student, this unlocks Figma's free education plan.
+2. Use this link to join the class Figma Team: https://www.figma.com/team_invite/redeem/0UgAOk4s4Qvsvg02ihbfFl?t=fdQngmY5yTzz9skA-21
 
 **Why we're using Figma:** Figma is a design tool that's become an industry
-standard for UI and graphic design work. We're using it this semester to build
+standard for design work. We're using it this semester to build
 your comfort with typography and graphics fundamentals. It also has a gentler
 learning curve than a lot of other design software, which makes it a good place
 to start before we get into more technical tools later in the course.
 
-**Finding your way around:** Figma has a short guide to the interface that's
-worth bookmarking:
+**Finding your way around:** Figma has a short guide to navigating the interface:
 https://help.figma.com/hc/en-us/articles/30925881896727-FD4B-Navigate-Figma-Design-files
 
 The four areas you'll use constantly:
@@ -67,19 +68,26 @@ that holds your design. You'll create one frame for today's activity.
 To add images and text: pick the text tool or image tool from the toolbar, or
 drag a file from your computer straight onto the canvas.
 
-### Activity: Something You Love
+**FigJam's** are like Figma files, but more flexible for brainstorming and group 
+activities. 
 
-In a new Figma frame, put together a small board about something you love or
-find interesting — a piece of art, a song, a movie, a game.
+Some unique things you can do in FigJam files instead of regular design files:
 
-Include:
-1. An image or visual representing it
-2. A short block of text covering: how you first came across it, and what you
-   love about it
+- Add stickies
+- Draw a doodle
+- Highlight an object or text
 
-We will partner up and share this with each other before leaving today, to get to know one another better.
+### Activity
 
-### Before you leave
+In this FigJam, add something that inspires you: https://www.figma.com/board/PLM0fnz3Pd5xG9uIwvjk0k/Introductions?node-id=0-1&t=SScO7uR81SeelYea-1
+
+Include: 
+1. An image or video about it
+2. A text description: what it is, what it means to you, where does it come from, why is
+
+We will share this with each other, to get to know one another better.
+
+### Homework
 
 Be sure to fill out the survey if you have not yet:
 https://docs.google.com/forms/d/e/1FAIpQLScmzqvZRO-20XAwsr927CMmENCsAKPJdxdAlNcC4UT49ZTgzQ/viewform?usp=header
