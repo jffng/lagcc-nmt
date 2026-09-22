@@ -2,21 +2,35 @@
 publish: true
 course: huw112
 type: classnotes
-title: Class 3 — Typography
+title: Class 3 — Text
 term: Fall 2026
 date: '2026-09-22'
 order: 3
-slug: class-3-typography
+slug: class-3-text
 ---
 
-## Class 3: Typography
+## Class 3: Text
 
 ### Agenda
 
-- **Review the FigJam**
+- **Warm up: introductions**
 - **Typography lecture**
 - **Break**
-- **Well done / not well done activity**
+- **Text scavenger hunt activity**
+- **Review the assignment requirements**
+
+### Announcement: Media Futures Interns
+
+![](/content-assets/Pasted image 20260922090509.png)
+
+- Brief info session on on Thursday, September 24, at 5:45 p.m. in M-122. The session should run approximately 20 minutes.
+- 3 credits for internships like this under the class HUW 260 Experiential Learning
+- Any questions, email Sarada Rauch <srauch@lagcc.cuny.edu>
+
+### Warm up: Introductions
+
+Pair up with a classmate and introduce yourselves using the
+[Introductions FigJam board](https://www.figma.com/board/PLM0fnz3Pd5xG9uIwvjk0k/Introductions?t=hgz2pnhVnAeQmQhd-0).
 
 ### Lecture
 
@@ -57,3 +71,23 @@ height, serifs).
 2. Create six frames, one for each example.
 3. In each frame, add a photo or screenshot of the example.
 4. Add your written explanation in the same frame.
+
+### Assignment: Poster
+
+**Due Tuesday, September 29**
+
+Make a poster. It can be for anything — an idea, a game, a product, a business. 
+
+***Requirements***
+- 1080 × 1350 px (Instagram's portrait post size)
+- Must contain at least 140 characters of text
+- Can contain some kind of photography or imagery, but it's not required. The focus is on the text
+
+*Examples*
+- Remix an album cover
+- Promote a concert
+- Protest flyer
+- Game or movie cover
+- Make a meme
+
+*Submit via Brightspace.*
