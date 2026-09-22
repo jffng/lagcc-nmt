@@ -41,6 +41,22 @@ export function listAllNotes(): NoteMeta[] {
   return listCourses().flatMap((course) => listNotes(course));
 }
 
+export function listCoursesWithRoster(): string[] {
+  return listCourses().filter((course) =>
+    existsSync(path.join(CONTENT_DIR, course, "roster.csv"))
+  );
+}
+
+export function getRoster(course: string): string[] {
+  const filePath = path.join(CONTENT_DIR, course, "roster.csv");
+  if (!existsSync(filePath)) return [];
+
+  return readFileSync(filePath, "utf-8")
+    .split(",")
+    .map((name) => name.replace(/\s+/g, " ").trim())
+    .filter(Boolean);
+}
+
 export function getNote(course: string, slug: string): Note | null {
   const filePath = path.join(CONTENT_DIR, course, `${slug}.md`);
   if (!existsSync(filePath)) return null;
