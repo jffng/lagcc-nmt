@@ -42,9 +42,13 @@ export function listAllNotes(): NoteMeta[] {
 }
 
 export function listCoursesWithRoster(): string[] {
-  return listCourses().filter((course) =>
+  const withRoster = listCourses().filter((course) =>
     existsSync(path.join(CONTENT_DIR, course, "roster.csv"))
   );
+  // With `output: "export"`, generateStaticParams() must yield at least one
+  // route. Fall back to all courses so the build doesn't fail when no
+  // roster.csv files exist yet; the page itself 404s for rosterless courses.
+  return withRoster.length > 0 ? withRoster : listCourses();
 }
 
 export function getRoster(course: string): string[] {

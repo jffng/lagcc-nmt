@@ -13,6 +13,15 @@ slug: class-3-interfaces
 
 - Review website scavenger hunt
 
+
+### Announcement: Media Futures Interns
+
+![](/content-assets/Pasted image 20260922090509.png)
+
+- Brief info session on on Thursday, September 24, at 5:45 p.m. in M-122. The session should run approximately 20 minutes.
+- 3 credits for internships like this under the class HUW 260 Experiential Learning
+- Any questions, email Sarada Rauch <srauch@lagcc.cuny.edu>
+
 ### Website scavenger hunt 
 
 We'll review your examples from the [Internet Scavenger Hunt](https://www.figma.com/files/team/1679329638426714873/folder/656373057?fuid=1674475704342676702).
@@ -32,7 +41,6 @@ We will look at the typography tools available in Figma:
 - font size
 - line height
 - weight
-
 
 ### Activity
 
