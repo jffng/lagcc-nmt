@@ -71,3 +71,4 @@ height, serifs).
 2. Create six frames, one for each example.
 3. In each frame, add a photo or screenshot of the example.
 4. Add your written explanation in the same frame.
+
