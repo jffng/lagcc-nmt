@@ -21,7 +21,7 @@ slug: class-3-text
 
 ### Announcement: Media Futures Interns
 
-![](/content-assets/Pasted image 20260922090509.png)
+![](/content-assets/Pasted-image-20260922090509.png)
 
 - Brief info session on on Thursday, September 24, at 5:45 p.m. in M-122. The session should run approximately 20 minutes.
 - 3 credits for internships like this under the class HUW 260 Experiential Learning
