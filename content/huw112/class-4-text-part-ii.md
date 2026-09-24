@@ -96,9 +96,13 @@ Make a poster. It can be about anything — an event, a comic, a game, a produc
 
 ### Rubric
 
+This is your first Figma assignment, so "Proficient" is the expected bar for a
+good-faith attempt that applies what we covered in class. "Excellent" is for
+work that goes beyond that, not the default expectation.
+
 | Category | Excellent | Proficient | Needs Improvement |
 |---|---|---|---|
-| **Typography & hierarchy** (25 pts) | Font choice fits the poster's tone; clear order of what to read first, second, third through size/weight/color | Fonts are readable but hierarchy is unclear, or too many competing focal points | No clear reading order; text is hard to read or fonts clash without purpose |
-| **Layout & composition** (25 pts) | Elements are aligned and balanced; whitespace is used intentionally | Layout is functional but inconsistent spacing/alignment | Elements feel randomly placed; cramped or unbalanced |
-| **Craft & execution** (25 pts) | Meets all technical requirements (1080×1350px, 140+ characters) cleanly; no stray/misaligned elements | Meets requirements but with rough edges (sloppy alignment, inconsistent spacing) | Missing a requirement, or execution is visibly unfinished |
-| **Concept & effectiveness** (25 pts) | The poster clearly communicates its subject/message and would work as a real poster for its stated purpose | Concept is present but message or purpose is unclear at a glance | No clear concept, or the poster doesn't communicate what it's for |
+| **Typography & hierarchy** (25 pts) | Font pairing feels intentional and reinforces the poster's tone | You picked 1–2 fonts and made *some* things bigger/bolder than others so there's a clear first thing to read | All text looks the same size/weight, or it's genuinely hard to read |
+| **Layout & composition** (25 pts) | Elements feel deliberately placed and balanced across the page | Text and shapes are reasonably aligned (used align/distribute) and not overlapping by accident | Elements are scattered with no attempt at alignment |
+| **Craft & execution** (25 pts) | Meets all technical requirements cleanly with no stray elements | Meets the technical requirements (1080×1350px, 140+ characters) | Missing one or more requirements |
+| **Concept** (25 pts) | The idea is memorable or shows a clear point of view | There's a clear, identifiable subject/message | It's unclear what the poster is even for |
