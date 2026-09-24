@@ -85,6 +85,7 @@ Make a poster. It can be about anything — an event, a comic, a game, a produc
 - 1080 × 1350 px (Instagram's portrait post size)
 - Must contain at least 140 characters of text
 - Can contain some kind of photography or imagery, but it's not required. The focus is on the text
+- Exported + saved as png or jpeg
 
 *Examples*
 - Remix an album cover
