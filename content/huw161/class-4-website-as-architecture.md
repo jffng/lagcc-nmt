@@ -12,6 +12,9 @@ slug: class-4-website-as-architecture
 ### Agenda
 
 - **Discussion: The Good Room**
+- **Figma demo: Recreate & Reimagine, start to finish**
+- **Break**
+- **Recreate & Reimagine work time**
 
 ### Discussion
 
@@ -27,7 +30,7 @@ What makes a digital space feel inhabitable?
 
 5. Is it possible to build something profitable and cared-for at the same time, or are those always in tension? Can you name an example that does both?
 
-6. For your own scavenger hunt sites: are you designing to serve the person looking at it, or to get something from them (attention, a click, a purchase)? Is that always a bad thing?
+6. For your own scavenger hunt sites: are they being designed to serve the person looking at it, or to get something from them (attention, a click, a purchase)? Is that always a bad thing?
 
 7. What's one small design choice — in navigation, typography, pacing, or interaction — that would make a digital space feel more like a "good room" and less like something optimized against you?
 
@@ -70,24 +73,6 @@ What makes a digital space feel inhabitable?
 | **Craft & execution** (25 pts) | Frame is clean, organized, and easy to read at a glance | Frame is functional but cluttered or inconsistently spaced/aligned | Frame is difficult to follow or incomplete |
 
 
-### Demo: Figma 
-
-- Frames
-- Groups
-- Typography
-- Alignment
-- Color
-
----
-
-## Expanded Lesson Plan
-
-### Agenda
-
-- **Discussion: The Good Room**
-- **Figma demo: Recreate & Reimagine, start to finish**
-- **Break**
-- **Recreate & Reimagine work time**
 
 ### Discussion: The Good Room
 
@@ -248,27 +233,3 @@ on this. It's due **Thursday, October 1**. Suggested pace:
       names a class concept
 - [ ] Everything is aligned and evenly spaced
 - [ ] PNG (2x) and Figma link both uploaded to Brightspace
-
----
-
-### Instructor notes (not part of the handout)
-
-- **Due date conflict:** The Class 3 notes (9.22) say "Due **Tuesday**,
-  October 1." Oct 1, 2026 is a Thursday. Fix that file so the two handouts
-  agree.
-- **Seed requirement wording:** The seed says "Export your **frames**"
-  (plural). The expanded plan asks for one PNG of the parent frame plus the
-  Figma link, to match the "single frame" requirement. Consider updating the
-  seed requirement and adding "Figma link" to it.
-- **Type pairing:** Today's schedule topic is type pairing. Decide whether an
-  "option" may use a headline + body *pair* of fonts or must use one typeface.
-  The assignment doesn't say either way, and students will ask.
-- **Check before demoing:** Confirm that right-click → *Select matching
-  layers* behaves as described in your current Figma version. Figma sometimes
-  limits it to layers inside the same parent frame.
-- **Text styles skipped on purpose:** The schedule pairs today with *Create
-  and apply text styles*. I left styles out of the demo because duplicated
-  frames share styles, so editing one option's style would change all of
-  them. It's worth revisiting in Unit 3 (components).
-- **Color trimmed:** Color is only covered as eyedropper matching. It isn't
-  graded here, and the full topic is Unit 2 (Oct 6–8).
