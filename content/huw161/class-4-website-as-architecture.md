@@ -26,6 +26,38 @@ slug: class-4-website-as-architecture
 7. For your own scavenger hunt sites or your poster: are you designing to serve the person looking at it, or to get something from them (attention, a click, a purchase)? Is that always a bad thing?
 8. What's one small design choice — in navigation, typography, pacing, or interaction — that would make a digital space feel more like a "good room" and less like something optimized against you?
 
-### Homework
+### Assignment: Recreate & Reimagine
 
-Read 
+**Due Tuesday, October 1**
+
+1. Take one of the examples you pulled from the Website Scavenger Hunt.
+2. Recreate it in Figma — match the original's layout and text hierarchy as
+   closely as you can (what's the headline, what's body text, what's a button
+   or label).
+3. Reimagine it using **three different typeface options**. All three must
+   live in a **single Figma frame**, laid out so they can be compared side by
+   side.
+4. For each of your three options, write a short explanation (1–2 sentences)
+   of *why* you chose that typeface — how it changes the tone, legibility, or
+   feeling of the site compared to the original.
+
+**Requirements**
+- One Figma frame containing the recreated layout and all three typeface
+  options
+- Each option must actually change the typeface, not just the size or color
+- A short written rationale per option, referencing at least one concept from
+  class (hierarchy, weight, kerning, line height, or serif vs. sans-serif)
+
+**Submit via Brightspace.**
+
+### Rubric
+
+| Category | Excellent | Proficient | Needs Improvement |
+|---|---|---|---|
+| **Recreation accuracy** (25 pts) | Layout and text hierarchy closely match the original | Layout is recognizable but hierarchy is unclear or inconsistent | Layout doesn't reflect the original's structure |
+| **Typeface exploration** (25 pts) | Three distinct typefaces, each a thoughtful fit for the site's purpose and tone | Three typefaces present, but some choices feel arbitrary or mismatched to the site | Fewer than three typefaces, or choices show no real consideration of fit |
+| **Written rationale** (25 pts) | Each explanation clearly connects the typeface to tone, legibility, or a class concept | Explanations are present but vague or generic ("it looks nice") | Rationale missing or doesn't relate to the typeface choice |
+| **Craft & execution** (25 pts) | Frame is clean, organized, and easy to read at a glance | Frame is functional but cluttered or inconsistently spaced/aligned | Frame is difficult to follow or incomplete |
+
+
+https://www.instagram.com/p/DdmGDuDFEVo/?stkn=NTc4MTIwNjQ2YQ==

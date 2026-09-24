@@ -60,6 +60,22 @@ We will look at the typography tools available in Figma:
 - line height
 - weight
 
+**Figma skills worth demoing beforehand to make the Recreate & Reimagine assignment achievable:**
+- **Frames/nested frames** to represent layout regions (header, nav, hero, content, footer)
+- **Align & distribute tools** to get elements lined up without eyeballing
+- **Text tool + font swapping** — selecting multiple text layers at once and changing the font family in one action, so the "reimagine" step is fast
+- **Using a reference image as an underlay** (drop the screenshot in, lower its opacity, trace/rebuild on top) — a common trick for exactly this kind of recreation exercise
+- **Layers panel** to keep the rebuild organized as they add pieces
+
+Reference videos from the
+[Figma Design for beginners](https://www.youtube.com/playlist?list=PLXDU_eVOJTx5IuSrbtanZHnDuPB3Hx0hq)
+playlist:
+- Frames/nested frames: *Navigate Figma Design files [3 of 13]*, *Advocate Sidebar — Sections, groups, and frames*, *Create the navigation bar and footer [9 of 13]*
+- Align & distribute: likely demonstrated inline during *Create the landing page hero [4 of 13]* — no dedicated video in this playlist, worth spot-checking before assigning
+- Text tool + font swapping: *Create the landing page hero [4 of 13]*, *Create the skills list [10 of 13]*
+- Reference image as underlay/tracing: not covered in this playlist — plan to demo live
+- Layers panel: *Navigate Figma Design files [3 of 13]*
+
 ### Break
 
 ### Assignment: Recreate & Reimagine
