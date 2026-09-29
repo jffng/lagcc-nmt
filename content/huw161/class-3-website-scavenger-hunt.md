@@ -80,7 +80,7 @@ playlist:
 
 ### Assignment: Recreate & Reimagine
 
-**Due Tuesday, October 1**
+**Due Thursday, October 1**
 
 1. Take one of the examples you pulled from the Website Scavenger Hunt.
 2. Recreate it in Figma — match the original's layout and text hierarchy as
@@ -99,6 +99,8 @@ playlist:
 - Each option must actually change the typeface, not just the size or color
 - A short written rationale per option, referencing at least one concept from
   class (hierarchy, weight, kerning, line height, or serif vs. sans-serif)
+- Export your frame as a single PNG or JPEG, and submit it along with a link
+  to your Figma file
 
 **Submit via Brightspace.**
 

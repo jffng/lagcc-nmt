@@ -59,7 +59,8 @@ What makes a digital space feel inhabitable?
 - Each option must actually change the typeface, not just the size or color
 - A short written rationale per option, referencing at least one concept from
   class (hierarchy, weight, kerning, line height, or serif vs. sans-serif)
-- Export your frames as jpeg or png
+- Export your frame as a single PNG or JPEG, and submit it along with a link
+  to your Figma file
 
 **Submit via Brightspace.**
 
