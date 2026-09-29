@@ -40,14 +40,12 @@ slug: class-5-assignment-1-working-session
 
 ### Rubric
 
-| Category | Excellent | Proficient | Needs Improvement |
-|---|---|---|---|
-| **Recreation accuracy** (25 pts) | Layout and text hierarchy closely match the original | Layout is recognizable but hierarchy is unclear or inconsistent | Layout doesn't reflect the original's structure |
-| **Typeface exploration** (25 pts) | Three distinct typefaces, each a thoughtful fit for the site's purpose and tone | Three typefaces present, but some choices feel arbitrary or mismatched to the site | Fewer than three typefaces, or choices show no real consideration of fit |
-| **Written rationale** (25 pts) | Each explanation clearly connects the typeface to tone, legibility, or a class concept | Explanations are present but vague or generic ("it looks nice") | Rationale missing or doesn't relate to the typeface choice |
-| **Craft & execution** (25 pts) | Frame is clean, organized, and easy to read at a glance | Frame is functional but cluttered or inconsistently spaced/aligned | Frame is difficult to follow or incomplete |
-
-
+| Category                          | Excellent                                                                              | Proficient                                                                         | Needs Improvement                                                        |
+| --------------------------------- | -------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| **Recreation accuracy** (25 pts)  | Layout and text hierarchy closely match the original                                   | Layout is recognizable but hierarchy is unclear or inconsistent                    | Layout doesn't reflect the original's structure                          |
+| **Typeface exploration** (25 pts) | Three distinct typefaces, each a thoughtful fit for the site's purpose and tone        | Three typefaces present, but some choices feel arbitrary or mismatched to the site | Fewer than three typefaces, or choices show no real consideration of fit |
+| **Written rationale** (25 pts)    | Each explanation clearly connects the typeface to tone, legibility, or a class concept | Explanations are present but vague or generic ("it looks nice")                    | Rationale missing or doesn't relate to the typeface choice               |
+| **Craft & execution** (25 pts)    | Frame is clean, organized, and easy to read at a glance                                | Frame is functional but cluttered or inconsistently spaced/aligned                 | Frame is difficult to follow or incomplete                               |
 
 ### Agenda
 
@@ -79,9 +77,7 @@ will help you finish it faster.
 
 ### Figma demo: text styles and layout grids
 
-Both tools today are **optional**. If you've already duplicated your
-recreation into four copies and you're swapping fonts the way we did last
-class, keep going. You don't need to rebuild anything.
+Both tools today are **optional**
 
 #### Text styles (only if you haven't duplicated yet)
 
@@ -185,31 +181,10 @@ that isn't done yet, so you know exactly what to finish before Thursday.
 
 - [ ] One parent frame containing your recreation + three options
 - [ ] Recreation uses the real images from the site
-- [ ] Headline, body, and labels are clearly different levels in every
-      version
-- [ ] Each option uses a different **typeface**, not just a different size or
-      color
-- [ ] Each option has a typeface label and a 1–2 sentence rationale naming a
-      class concept
+- [ ] Headline, body, and labels are clearly different levels in every version
+- [ ] Each option uses a different **typeface**, not just a different size or color
+- [ ] Each option has a typeface label and a 1–2 sentence rationale
 - [ ] The original is labeled "Original — [font name]"
 - [ ] Everything is aligned and evenly spaced
 - [ ] Partner comments read and addressed (or consciously skipped)
-- [ ] Ready to export: select the parent frame → **Export** → **PNG**,
-      **2x**, then upload the PNG **and** your Figma link to Brightspace
-
----
-
-### Instructor notes (not part of the handout)
-
-- **Components deferred:** Components are left out of the handout except for a
-  one-line note that they'll be covered properly later. The schedule already
-  has them in Unit 3 (Oct 22), which would be a natural place for the full
-  lesson.
-- **Seed requirement updated:** The export line now says one PNG/JPEG plus a
-  Figma link. The same assignment block in `9.24.2026 Website as
-  architecture.md` still says "Export your frames as jpeg or png," and
-  `9.22.2026 Website scavenger hunt.md` still says "Due **Tuesday**,
-  October 1." Update those if students will still see them.
-- **Check before demoing:** Confirm that a text box with a style applied shows
-  as "modified" after a font change, with a **+** to save a new style, in your
-  current Figma version. Also confirm the "Layout guide" label.
+- [ ] Ready to export: select the parent frame → **Export** → **PNG**, **2x**, then upload the PNG **and your Figma link to Brightspace
