@@ -122,11 +122,6 @@ Sliders help make frames shot at different times look like the same world.
 
 Due Thursday, Oct 22
 
-![](/content-assets/22.png)
-
-![](/content-assets/22.png)
-
-
 **Both**
 - 3–8 frames (~5 is a good target)
 - Same size for every frame: story 1080 × 1920 or carousel 1080 × 1350
@@ -165,7 +160,7 @@ Are you choosing a potentially difficult subject?
 
 ### Using images you didn't make
 
-- Photo essay: your own photos only
+- Photo essay: your own photos only, or photos used with permission
 - Comic: borrowed images only as reference or one transformed collage piece
 - Credit anything you borrow
 - Posting publicly? Use only your own or free-to-use images
