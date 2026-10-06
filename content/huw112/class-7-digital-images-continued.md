@@ -176,18 +176,8 @@ Free to use (check each license):
 
 ### Inspiration research
 
-Keep adding to last class's file:
+Create a new Figma file that includes:
 
-- At least 5 examples, screenshot + link
+- 5 examples, screenshots or using Inssist if you are using Instagram
 - One sentence each: what does it do well?
 - Before you leave: your track + a one-sentence story idea
-
-### Share
-
-Show a partner your two favorite examples and your idea.
-
-### Homework
-
-Sontag reading + the four questions above, on Brightspace. 3–5 sentences each.
-
-Due Tuesday, Oct 13.
