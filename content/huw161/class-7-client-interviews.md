@@ -19,12 +19,12 @@ slug: class-7-client-interviews
 
 ### Groups
 
-- Aseem, Joel
-- Shin, Kai H.
+- Aseem, Joshan, Kai B.
+- Shin, Shakira
 - Jack, Maya, Jacob
-- Steven, Antonio, Bryan
-- Jayelyn, Shakira, Kai B.
-- Felix, Walter, Joshan
+- Steven, Bryan
+- Jayelyn, Kai H., Joel
+- Felix, Walter, Antonio
 
 Everyone interviews everyone in their group. Trios end up with two personas each.
 
