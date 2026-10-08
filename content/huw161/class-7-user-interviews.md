@@ -2,11 +2,11 @@
 publish: true
 course: huw161
 type: classnotes
-title: Class 7 — Client Interviews
+title: Class 7 — User Interviews
 term: Fall 2026
 date: 2026-10-06T00:00:00.000Z
 order: 7
-slug: class-7-client-interviews
+slug: class-7-user-interviews
 ---
 ### Agenda
 

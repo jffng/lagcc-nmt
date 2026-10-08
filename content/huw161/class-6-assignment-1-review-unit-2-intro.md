@@ -8,7 +8,6 @@ date: 2026-10-01T00:00:00.000Z
 order: 6
 slug: class-6-assignment-1-review-unit-2-intro
 ---
-
 ### Agenda
 
 - **Assignment 1 review**
