@@ -56,15 +56,13 @@ Turn your interview into one clear sentence about what your user needs. Leave th
 - ❌ Too broad: "How might we help people be happier?"
 - ✅ Names the person, uses something they said, leaves the solution open
 
-Already have an idea? Keep it. The statement tells you what your idea has to *do* — and that's your landing page's main button.
-
 ### Homework
 
 Read Ursula K. Le Guin, "Telling Is Listening": https://www.are.na/block/7518036
 
 Answer in Brightspace before class on Thursday, Oct 15. A few sentences each:
 
-1. Le Guin contrasts two ideas of communication: a message sent from one person to another, and an exchange where both people change. Which was closer to your interview on Tuesday?
-2. She treats listening as something active, not passive. What did you or your partner do that made it easier, or harder, to keep talking?
-3. Was there a moment in your interview when *how* they said something (a pause, a laugh, a tone) told you more than the words did?
-4. Reread your interview notes. What did you miss writing down?
+1. What stood out to you in this essay? 
+2. What is the difference between listening and telling? 
+3. Reread your interview notes. What did you miss writing down?
+

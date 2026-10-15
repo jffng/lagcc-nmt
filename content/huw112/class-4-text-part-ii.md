@@ -8,7 +8,6 @@ date: '2026-09-24'
 order: 4
 slug: class-4-text-part-ii
 ---
-
 ### Agenda
 
 - **Typography lecture + Figma demo**
