@@ -8,7 +8,7 @@ date: 2026-10-06T00:00:00.000Z
 order: 7
 slug: class-7-user-interviews
 ---
-### Agenda
+ ### Agenda
 
 - Pairs announced
 - Assignment 2: client landing page brief
