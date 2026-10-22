@@ -39,7 +39,7 @@ Requirements:
 	- Annotation for what each thing does
 - Navigation
 - Demonstrates key purpose or action to take
-- 
+
 ### Part 2: Visual Designs
 
 - Start from your wireframes. Add color, fonts, and pictures
