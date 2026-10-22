@@ -2,11 +2,11 @@
 publish: true
 course: huw161
 type: classnotes
-title: "Class 10 —\_Components"
+title: "Class 11 —\_Components"
 term: Fall 2026
 date: 2026-10-22T00:00:00.000Z
-order: 12
-slug: class-10-components
+order: 11
+slug: class-11-components
 ---
 ### Agenda
 
