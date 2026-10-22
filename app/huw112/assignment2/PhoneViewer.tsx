@@ -9,12 +9,17 @@ const SCREEN_RATIO = 393 / 852;
 // Drag farther than this (px) to swipe; less than TAP_SLOP counts as a tap.
 const SWIPE_THRESHOLD = 50;
 const TAP_SLOP = 10;
+// Phone size multiplier, for projectors. Adjust with the Size buttons or the +/- keys.
+const MIN_SCALE = 1;
+const MAX_SCALE = 2;
+const SCALE_STEP = 0.25;
 
 export default function PhoneViewer({ submissions }: { submissions: Submission[] }) {
   const [studentIndex, setStudentIndex] = useState(0);
   const [frameIndex, setFrameIndex] = useState(0);
   const [dragX, setDragX] = useState(0);
   const [dragging, setDragging] = useState(false);
+  const [scale, setScale] = useState(1);
   const dragStartX = useRef<number | null>(null);
 
   const student = submissions[studentIndex];
@@ -25,6 +30,10 @@ export default function PhoneViewer({ submissions }: { submissions: Submission[]
     setFrameIndex(0);
   }
 
+  function resize(delta: number) {
+    setScale((s) => Math.min(Math.max(s + delta, MIN_SCALE), MAX_SCALE));
+  }
+
   function step(delta: number) {
     setFrameIndex((i) => Math.min(Math.max(i + delta, 0), lastFrame));
   }
@@ -33,6 +42,8 @@ export default function PhoneViewer({ submissions }: { submissions: Submission[]
     function onKeyDown(e: KeyboardEvent) {
       if (e.key === "ArrowRight") setFrameIndex((i) => Math.min(i + 1, lastFrame));
       if (e.key === "ArrowLeft") setFrameIndex((i) => Math.max(i - 1, 0));
+      if (e.key === "+" || e.key === "=") resize(SCALE_STEP);
+      if (e.key === "-") resize(-SCALE_STEP);
     }
     window.addEventListener("keydown", onKeyDown);
     return () => window.removeEventListener("keydown", onKeyDown);
@@ -95,7 +106,9 @@ export default function PhoneViewer({ submissions }: { submissions: Submission[]
       <div className="flex flex-col items-center">
         <div
           className="relative"
-          style={{ width: "min(20rem, 85vw, calc((100svh - 11rem) * 0.46))" }}
+          style={{
+            width: `min(${20 * scale}rem, 85vw, calc((100svh - 11rem) * ${0.46 * scale}))`,
+          }}
         >
           {/* side buttons */}
           <span className="absolute -left-[1%] top-[14%] h-[4%] w-[1.5%] rounded-l bg-neutral-700" />
@@ -134,7 +147,7 @@ export default function PhoneViewer({ submissions }: { submissions: Submission[]
                       unoptimized
                       loading={Math.abs(i - frameIndex) <= 1 ? "eager" : "lazy"}
                       draggable={false}
-                      sizes="20rem"
+                      sizes="40rem"
                       className="object-contain"
                     />
                   </div>
@@ -181,6 +194,26 @@ export default function PhoneViewer({ submissions }: { submissions: Submission[]
             className="rounded-md border border-neutral-300 px-3 py-1 text-sm hover:bg-neutral-100 disabled:opacity-30 disabled:hover:bg-transparent"
           >
             →
+          </button>
+        </div>
+        <div className="mt-3 flex items-center gap-2 text-sm text-neutral-600">
+          <span>Size</span>
+          <button
+            onClick={() => resize(-SCALE_STEP)}
+            disabled={scale <= MIN_SCALE}
+            aria-label="Make phone smaller"
+            className="rounded-md border border-neutral-300 px-2.5 py-0.5 hover:bg-neutral-100 disabled:opacity-30 disabled:hover:bg-transparent"
+          >
+            −
+          </button>
+          <span className="w-12 text-center tabular-nums">{Math.round(scale * 100)}%</span>
+          <button
+            onClick={() => resize(SCALE_STEP)}
+            disabled={scale >= MAX_SCALE}
+            aria-label="Make phone bigger"
+            className="rounded-md border border-neutral-300 px-2.5 py-0.5 hover:bg-neutral-100 disabled:opacity-30 disabled:hover:bg-transparent"
+          >
+            +
           </button>
         </div>
         <p className="sr-only" aria-live="polite">
