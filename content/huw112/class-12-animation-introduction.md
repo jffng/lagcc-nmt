@@ -20,6 +20,7 @@ slug: class-12-animation-introduction
 
 ### Break
 
+**Do you already make videos?** Tell me what you use. (Phone apps, CapCut, nothing...) There's no wrong answer.
 ### Inspiration board
 
 **FigJam board:** 
@@ -33,16 +34,7 @@ Pick things you:
 - sent to a friend
 - wished you had made
 
-It can be anything: a TikTok, a music video, an anime scene, a game trailer, a meme, a logo that animates, an ad, a loading screen. It does not need to be "good" or "artsy." If it grabbed you, it counts.
-
-For each one, add a sticky note with:
-
-1. **Where you saw it** (TikTok, YouTube, a game, the subway...)
-2. **What grabbed you.** One sentence. (The beat drop? The way the text popped? The weird colors?)
-
 Keep it school-appropriate. 
-
-**Do you already make videos?** Tell me what you use. (Phone apps, CapCut, nothing...) There's no wrong answer.
 
 ### Unit 3: Video & Animation
 
@@ -58,18 +50,6 @@ Look back at the board. Everything on it made someone decide what came first, ho
 We'll use **Adobe After Effects**.
 
 Your photo essay or comic is the starting material, so everyone has something to work with. If something on the board is more exciting to you, we can go that way too.
-
-### Plan your video: pre-storyboard
-
-On paper or in Notes, list your frames in order. Next to each one write:
-
-- **How many seconds it stays on screen** (aim for 3–4 seconds each, 20–30 total)
-- **What appears first** on that frame (the title? the photo? a face?)
-- **How it ends** (a cut? a slide? something else)
-
-This is your first storyboard. You will change it.
-
-
 
 ### Prepare your carousel for After Effects
 
@@ -109,13 +89,5 @@ My Video/
 
 Your frames should already be **1080 × 1920** or **1080 × 1350**. Write yours down. We'll use it to set up After Effects.
 
-**6. Leave the text as text**
 
-Don't export your words as images. We'll retype them in After Effects so they can be animated.
-
-### Homework
-
-1. **Pick a format** for Assignment 3 and a **reference** from the board.
-2. **Sketch a storyboard** of your video (6 frames, sketches and words).
-3. **Prepare your Figma file** and export your layers (steps above). Bring the folder to class on Thursday, on a laptop or a USB drive.
-4. Make sure After Effects opens on your lab computer.
+ 6. Make sure After Effects opens on your lab computer.
