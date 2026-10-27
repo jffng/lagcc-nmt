@@ -23,18 +23,9 @@ slug: class-12-animation-introduction
 **Do you already make videos?** Tell me what you use. (Phone apps, CapCut, nothing...) There's no wrong answer.
 ### Inspiration board
 
-**FigJam board:** 
+**FigJam board:** https://www.figma.com/board/mRwVikIJKbhOYrYFu4CZJv/Animation---Video-Inspo?node-id=0-1&t=ay8OUho0lkYWTdrg-1
 
-**Add 2–3 things.** Each one is a video, animation, GIF, clip, or anything that moves. Paste a link or drop in a screenshot.
-
-Pick things you:
-
-- couldn't stop watching
-- rewatched
-- sent to a friend
-- wished you had made
-
-Keep it school-appropriate. 
+https://www.youtube.com/watch?v=WYzpFz3M1Vw
 
 ### Unit 3: Video & Animation
 
