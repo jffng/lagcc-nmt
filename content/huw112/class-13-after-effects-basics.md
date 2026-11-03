@@ -11,7 +11,7 @@ slug: class-13-after-effects-basics
 ### Agenda
 
 - Discussion
-- Review inspiration:
+- Review inspiration
 - Install and get set up with After Effects
 - Prepare poster layers for export
 
@@ -28,7 +28,7 @@ slug: class-13-after-effects-basics
 - What are the qualities of a good animation? 
 
 - What is frames per second? 
-	- **~10-12 fps — motion starts to read as motion.** Below this, the brain perceives a sequence of distinct images rather than continuous movement. Early animation (Disney's "Steamboat Willie", traditional hand-drawn animation) often runs at 12 fps with each frame held for two frames of a 24 fps film — "animating on twos." You see the seams clearly, but it still reads as motion. Anime traditionally uses this approach and leans into the choppiness as style.
+	- **~10-12 fps — motion starts to read as motion.** Below this, the brain perceives a sequence of distinct images rather than continuous movement. Early animation (Disney's " ", traditional hand-drawn animation) often runs at 12 fps with each frame held for two frames of a 24 fps film — "animating on twos." You see the seams clearly, but it still reads as motion. Anime traditionally uses this approach and leans into the choppiness as style.
 	- **~16 fps — the historical "persistence of vision" threshold.** Silent films ran here. Motion is continuous but flickery. This is the floor of "watchable."
 	- **24 fps — the cinematic standard.** Adopted in 1927 for sound film (the speed needed for reliable audio sync). Reads as smooth motion to most viewers, but you can still see the seams in fast pans or fast motion — this is the "judder" you notice in panning shots in movies. The film industry kept this as a feature, not a bug; it's part of what makes movies look like movies.
 	- **30 fps — broadcast / web video standard.** Smoother than 24, less "cinematic." Most TikToks, YouTube, etc.
