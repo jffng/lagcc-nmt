@@ -10,6 +10,8 @@ slug: class-14-assets-and-easing
 ---
 ### Agenda
 
+https://x.com/caitiedelaney/status/2118031510297309358
+
 - Look at memes
 - Demo 
 - Work time
