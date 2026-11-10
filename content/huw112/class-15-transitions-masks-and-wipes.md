@@ -8,14 +8,14 @@ date: 2026-11-10T00:00:00.000Z
 order: 15
 slug: class-15-transitions-masks-and-wipes
 ---
-![](/content-assets/Pasted image 20261109195138.png)
+![](/content-assets/pasted-image-20261109195138.png)
 
 "A reminder to encourage your students to attend the Transfer Fair this Wednesday, info below and attached. It is soooo helpful to them to talk to representatives from schools and show them their portfolio or whatever they have. The four year college transfer is a HUGE goal for our program, and many of these schools are attending with our NMT program in mind, specifically."
 
 ## TOMORROW WEDNESDAY NOVEMBER 11th, 12-3p in the E Atrium
 
 
-![](/content-assets/Pasted image 20261109195000.png)
+![](/content-assets/pasted-image-20261109195000.png)
 ## **Monday, November 16, from 12:00–12:45 PM EST.** 
 
 Jules will be joining us online from LA, and I'm happy to share the Zoom link with anyone who'd like to join
@@ -31,7 +31,7 @@ Jules will be joining us online from LA, and I'm happy to share the Zoom link wi
 ### Two options:
 
 1. **Animate your Assignment 2.** Turn your comic or photo essay into a 30–60 second animation.
-2. **Make something new.**  A fresh 30–60 second animation on any topic you care about.
+2. **Make something new.**  A fresh 30–60 second animation.
 
 ### Requirements
 
@@ -40,7 +40,7 @@ Jules will be joining us online from LA, and I'm happy to share the Zoom link wi
 - **Format:** MP4
 - **Sound:** music, sound effects, or voice-over
 - **Motion:** something on screen is animated (text, images, illustrations, graphics)
-- **A real transition** between at least two scenes (more below)
+- **A transition** between at least two scenes (more below)
 - **A mask or wipe** somewhere in the piece
 - **A process note** — 2 or 3 sentences about what you did, where your images + footage and sound came from, and one thing you built or customized that you're proud of.
 
@@ -61,7 +61,7 @@ You can use video clips, but the focus is on your animation. Footage should supp
 | **Motion**              | 20     | Things move on purpose. Keyframes (or the equivalent) with easing, not just stuff appearing. Not too busy: a few well-chosen movements beat ten messy ones. |
 | **Transitions & masks** | 20     | At least one real transition and one mask or wipe.                                                                                                          |
 | **Sound**               | 15     | Sound fits the piece and is balanced, so nothing drowns out the rest.                                                                                       |
-| **Story & pacing**      | 20     | There's a beginning, middle and end. Each scene stays up long enough to read or take in, and the length is 30–60 seconds.                                   |
+| **Story & pacing**      | 20     | The story makes sense to someone who is not you, it's easy to follow. The pace and rhythm flows.                                                            |
 | **Craft & legibility**  | 15     | Text is readable on a phone. Clean edges, no stray artifacts, correct size and frame rate, clean export.                                                    |
 | **Process note**        | 10     | Describe what you did, where and how you got the footage, and one thing you built / customized that you're proud of.                                        |
 
@@ -147,6 +147,3 @@ If you tried something ambitious and it is not perfect, that is great. I'd rathe
 - Export a **rough cut MP4** of the whole piece (ugly is fine)
 - Choose **sound**: a music bed or a few effects. Use a free source and check the license (Freesound, Pixabay, YouTube Audio Library).
 - Bring your project folder
-
-
----

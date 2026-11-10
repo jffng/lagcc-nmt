@@ -23,7 +23,7 @@ slug: class-13-after-effects-basics
 	- Sequence of images and sound played back together over time.
 	- Do they offer a representation of reality?
 
-![](/content-assets/original_689e8c3b300108c959b68c06c2352b14.gif)
+![](/content-assets/original-689e8c3b300108c959b68c06c2352b14.gif)
 
 - What are the qualities of a good animation? 
 

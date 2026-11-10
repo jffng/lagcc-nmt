@@ -48,6 +48,12 @@ function slugify(str) {
     .replace(/(^-|-$)/g, "");
 }
 
+// Web-safe asset filename: no spaces or odd characters, keeps the extension.
+function assetName(asset) {
+  const ext = path.extname(asset).toLowerCase();
+  return slugify(path.basename(asset, path.extname(asset))) + ext;
+}
+
 function processNote(filePath) {
   const raw = readFileSync(filePath, "utf-8");
   const { data, content } = matter(raw);
@@ -69,7 +75,7 @@ function processNote(filePath) {
       return match;
     }
     usedAssets.push(asset);
-    return `![](/content-assets/${path.basename(asset)})`;
+    return `![](/content-assets/${assetName(asset)})`;
   });
 
   body = body.replace(MD_IMAGE, (match, alt, src) => {
@@ -80,7 +86,7 @@ function processNote(filePath) {
       return match;
     }
     usedAssets.push(asset);
-    return `![${alt}](/content-assets/${path.basename(asset)})`;
+    return `![${alt}](/content-assets/${assetName(asset)})`;
   });
 
   const courseDir = path.join(CONTENT_DIR, course);
@@ -92,7 +98,7 @@ function processNote(filePath) {
 
   mkdirSync(ASSETS_DIR, { recursive: true });
   for (const asset of usedAssets) {
-    copyFileSync(asset, path.join(ASSETS_DIR, path.basename(asset)));
+    copyFileSync(asset, path.join(ASSETS_DIR, assetName(asset)));
   }
 
   return { course, slug, title: data.title ?? slug, type: data.type };
