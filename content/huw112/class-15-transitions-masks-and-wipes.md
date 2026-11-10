@@ -25,7 +25,8 @@ Jules will be joining us online from LA, and I'm happy to share the Zoom link wi
 
 ## Assignment 3: Animation
 
-**Due:** Tuesday, November 19, at the start of class
+**Due:** Thursday, November 19, at the start of class
+
 **Submit:** MP4 + process note on Brightspace
 
 ### Two options:
