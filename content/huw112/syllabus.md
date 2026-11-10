@@ -10,7 +10,7 @@ slug: syllabus
 
 **Course Number:** HUW 112
 
-**Days/Time:** Tuesdays and Thursdays, 9:15a - 11:30a — E-230
+**Days/Time:** Tuesdays and Thursdays, 9:15a - 11:30a — E-261
 
 **Instructor:** Jeff Ong — Section 5382 
 
@@ -87,19 +87,19 @@ Creating, manipulating images, posters, and memes digitally.
 
 ### Unit 3 — Video & Animation
 
-*Oct 27 — Nov 17*
+*Oct 27 — Nov 24*
 
-How is a video different than a movie? What happens when everyone has a video camera?  How do sounds affect us compared to visuals?  
+How is a video different than animation? What happens when everyone has a video camera?  How do sounds affect us compared to visuals?  
 
 We will look at how to create and manipulate time-based media — how to create and edit text, images, and sounds in combination to create video and audio. 
 
-**Tools:** Adobe Premiere  
+**Tools:** Adobe After Effects  
 
 ***
 
 ### Unit 4 — Website
 
-*Nov 19 — Dec 3*
+*Nov  — Dec 3*
 
 What is a website made of? Is Instagram a website? What happens when suddenly billions of people across the world can talk to each other instantly via the Internet?
 
@@ -125,7 +125,7 @@ Each unit has one assignment, that is due at the beginning of class. You will ha
 | --- | ----------------- | ------ | ------ |
 | 1   | Poster            | Unit 1 | Sep 29 |
 | 2   | Portrait          | Unit 2 | Oct 22 |
-| 3   | Video / Animation | Unit 3 | Nov 17 |
+| 3   | Video / Animation | Unit 3 | Nov 24 |
 | 4   | Portfolio Website | Unit 4 | Dec 3  |
 | 5   | Final Project     | Unit 5 | Dec 15 |
 
