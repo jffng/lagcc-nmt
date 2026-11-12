@@ -18,6 +18,8 @@ slug: class-16-subcompositions
 	- Adding Sound
 - Work time
 
+https://cuny907-my.sharepoint.com/:u:/g/personal/jeffrey_ong97_login_cuny_edu/IQD6AK-PXb2MSIIwGwQ6TJaaAdsVEZ_6Hzp1VamL2rJAmh0?e=ODrF1Q
+
 **Drawing a Motion path using a Null Object**
 
 1. Draw a **mask** or **shape layer path** with the Pen tool (it can be open, not closed).
