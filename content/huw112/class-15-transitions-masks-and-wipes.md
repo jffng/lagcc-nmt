@@ -142,7 +142,6 @@ If you tried something ambitious and it is not perfect, that is great. I'd rathe
 - **Iris wipe:** circle matte, Scale 0% → 150%
 - **Slide wipe:** rectangle matte, Position from off-screen to centered
 - **Reveal from a line:** rectangle matte on a text layer, animate the text's Position up from below the matte's edge
-- 
 ### Homework
 
 - Export a **rough cut MP4** of the whole piece (ugly is fine)
