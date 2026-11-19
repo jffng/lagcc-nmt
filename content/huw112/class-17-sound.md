@@ -14,11 +14,13 @@ slug: class-17-sound
 	- Chuck Jones: https://www.youtube.com/watch?v=kHpXle4NqWI
 	- Personality: https://youtu.be/V7rlHwHoz6s?t=333
 
-- Talk about Process:
+
+- Talk about Process
 	- Toei Animation (Dragonball Z, One Piece) first use of digital processes to make their animation: https://youtu.be/Q4ByyRYgyZw?t=282
 	- Toei Animation (process of what animators do) https://youtu.be/8oxP_otu4Yc?t=210
-	- of Naruto: https://www.youtube.com/watch?v=MdzjqOuO_Ig
+	- Behinds the scenes of Naruto: https://www.youtube.com/watch?v=MdzjqOuO_Ig
 	- Inside out Storyboard: https://www.youtube.com/watch?v=a_Ghy12E61U
+
 
 - Talk about titles
 	- Saul Bass: art of the title card https://www.youtube.com/watch?v=2IoVLB1shwI
@@ -27,7 +29,9 @@ slug: class-17-sound
 
 - Add sound to your animation
 - https://voicemaker.in/ — gives you five free TTS per day.
+- https://ttsmp3.com/ — 1000 characters fere
 - https://bandcamp.com — buy music you love and download it
 
 ### Work time
+
 
